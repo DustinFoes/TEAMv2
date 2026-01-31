@@ -1,5 +1,43 @@
 [
   {
+    "id": "20260111-183738-55ly",
+    "title": "Qwertzee",
+    "commanders": [
+      "Qwertzee"
+    ],
+    "dateStart": "2026-01-12T00:37:38.000Z",
+    "dateEnd": "2026-01-19T19:53:46.000Z",
+    "dateLabel": "1/11/2026, 6:37:38 PM - 1/19/2026, 1:53:46 PM",
+    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260111-183738-55ly",
+    "summary": {
+      "borderlandsPct": 0.7058823529411765,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 25,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 25,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 23,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 12,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 16
+    }
+  },
+  {
     "id": "20260118-170356-5r1w",
     "title": "Qwertzee",
     "commanders": [
