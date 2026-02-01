@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260131-185609-x1vj",
+    "title": "Shae Pell Shimmer",
+    "commanders": [
+      "Shae Pell Shimmer"
+    ],
+    "dateStart": "2026-02-01T00:56:09.000Z",
+    "dateEnd": "2026-02-01T01:45:51.000Z",
+    "dateLabel": "1/31/2026, 6:56:09 PM - 1/31/2026, 7:45:51 PM",
+    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260131-185609-x1vj",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 8,
+          "color": "#10b981"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 13,
+      "avgEnemySize": 13
+    }
+  },
+  {
     "id": "20260111-165148-6r2m",
     "title": "Qwertzee",
     "commanders": [
