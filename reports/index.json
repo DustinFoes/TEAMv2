@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260206-113420-cpzx",
+    "title": "Shae Pell Shimmer",
+    "commanders": [
+      "Shae Pell Shimmer"
+    ],
+    "dateStart": "2026-02-06T17:34:20.000Z",
+    "dateEnd": "2026-02-07T03:31:44.000Z",
+    "dateLabel": "2/6/2026, 11:34:20 AM - 2/6/2026, 9:31:44 PM",
+    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260206-113420-cpzx",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 14,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Detailed Gilded Hollow",
+          "value": 2,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 13,
+      "avgEnemySize": 33
+    }
+  },
+  {
     "id": "20260206-113420-gwak",
     "title": "Shae Pell Shimmer",
     "commanders": [
