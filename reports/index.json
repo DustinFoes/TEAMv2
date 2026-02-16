@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260215-170151-rm1m",
+    "title": "Qwerttze",
+    "commanders": [
+      "Qwerttze"
+    ],
+    "dateStart": "2026-02-15T23:01:51.000Z",
+    "dateEnd": "2026-02-16T01:05:36.000Z",
+    "dateLabel": "2/15/2026, 5:01:51 PM - 2/15/2026, 7:05:36 PM",
+    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260215-170151-rm1m",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 22,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 25
+    }
+  },
+  {
     "id": "20260208-165216-z9tu",
     "title": "Qwerttze",
     "commanders": [
