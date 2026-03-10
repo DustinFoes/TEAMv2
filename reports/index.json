@@ -1,312 +1,361 @@
-[
-  {
-    "id": "20260223-122312-6t70",
-    "title": "Thawtiana",
-    "commanders": [
-      "Thawtiana"
-    ],
-    "dateStart": "2026-02-23T18:23:12.000Z",
-    "dateEnd": "2026-02-23T19:56:19.000Z",
-    "dateLabel": "2/23/2026, 12:23:12 PM - 2/23/2026, 1:56:19 PM",
-    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260223-122312-6t70",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 6,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        }
-      ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 7
-    }
+{
+  "siteTheme": {
+    "ui": "kinetic",
+    "paletteId": "KineticPaperDark",
+    "kineticFont": "original",
+    "kineticVariant": "midnight"
   },
-  {
-    "id": "20260215-170151-rm1m",
-    "title": "Qwerttze",
-    "commanders": [
-      "Qwerttze"
-    ],
-    "dateStart": "2026-02-15T23:01:51.000Z",
-    "dateEnd": "2026-02-16T01:05:36.000Z",
-    "dateLabel": "2/15/2026, 5:01:51 PM - 2/15/2026, 7:05:36 PM",
-    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260215-170151-rm1m",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 22,
-          "color": "#ffffff"
-        }
+  "entries": [
+    {
+      "id": "20260309-120613-gim9",
+      "title": "Beirmeir, Drakarys Mistwalker, Tefiis, Thawtiana",
+      "commanders": [
+        "Beirmeir",
+        "Drakarys Mistwalker",
+        "Tefiis",
+        "Thawtiana"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 25
-    }
-  },
-  {
-    "id": "20260208-165216-z9tu",
-    "title": "Qwerttze",
-    "commanders": [
-      "Qwerttze"
-    ],
-    "dateStart": "2026-02-08T22:52:16.000Z",
-    "dateEnd": "2026-02-09T01:20:33.000Z",
-    "dateLabel": "2/8/2026, 4:52:16 PM - 2/8/2026, 7:20:33 PM",
-    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260208-165216-z9tu",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 30,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-09T17:06:13.000Z",
+      "dateEnd": "2026-03-10T04:03:22.000Z",
+      "dateLabel": "3/9/2026, 12:06:13 PM - 3/9/2026, 11:03:22 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260309-120613-gim9",
+      "summary": {
+        "borderlandsPct": 0.7659574468085106,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 10,
+            "color": "#64748b"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 18
+      }
+    },
+    {
+      "id": "20260223-122312-6t70",
+      "title": "Thawtiana",
+      "commanders": [
+        "Thawtiana"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 29
-    }
-  },
-  {
-    "id": "20260206-113420-cpzx",
-    "title": "Shae Pell Shimmer",
-    "commanders": [
-      "Shae Pell Shimmer"
-    ],
-    "dateStart": "2026-02-06T17:34:20.000Z",
-    "dateEnd": "2026-02-07T03:31:44.000Z",
-    "dateLabel": "2/6/2026, 11:34:20 AM - 2/6/2026, 9:31:44 PM",
-    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260206-113420-cpzx",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 14,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Detailed Gilded Hollow",
-          "value": 2,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-23T18:23:12.000Z",
+      "dateEnd": "2026-02-23T19:56:19.000Z",
+      "dateLabel": "2/23/2026, 12:23:12 PM - 2/23/2026, 1:56:19 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260223-122312-6t70",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 7
+      }
+    },
+    {
+      "id": "20260215-170151-rm1m",
+      "title": "Qwerttze",
+      "commanders": [
+        "Qwerttze"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260206-113420-gwak",
-    "title": "Shae Pell Shimmer",
-    "commanders": [
-      "Shae Pell Shimmer"
-    ],
-    "dateStart": "2026-02-06T17:34:20.000Z",
-    "dateEnd": "2026-02-07T03:31:44.000Z",
-    "dateLabel": "2/6/2026, 11:34:20 AM - 2/6/2026, 9:31:44 PM",
-    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260206-113420-gwak",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 14,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Detailed Gilded Hollow",
-          "value": 2,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-15T23:01:51.000Z",
+      "dateEnd": "2026-02-16T01:05:36.000Z",
+      "dateLabel": "2/15/2026, 5:01:51 PM - 2/15/2026, 7:05:36 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260215-170151-rm1m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
+      "id": "20260208-165216-z9tu",
+      "title": "Qwerttze",
+      "commanders": [
+        "Qwerttze"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260201-170639-agyh",
-    "title": "Qwertzee",
-    "commanders": [
-      "Qwertzee"
-    ],
-    "dateStart": "2026-02-01T23:06:39.000Z",
-    "dateEnd": "2026-02-02T01:33:24.000Z",
-    "dateLabel": "2/1/2026, 5:06:39 PM - 2/1/2026, 7:33:24 PM",
-    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260201-170639-agyh",
-    "summary": {
-      "borderlandsPct": 0.5263157894736842,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 18,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#10b981"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 5,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-08T22:52:16.000Z",
+      "dateEnd": "2026-02-09T01:20:33.000Z",
+      "dateLabel": "2/8/2026, 4:52:16 PM - 2/8/2026, 7:20:33 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260208-165216-z9tu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 29
+      }
+    },
+    {
+      "id": "20260206-113420-cpzx",
+      "title": "Shae Pell Shimmer",
+      "commanders": [
+        "Shae Pell Shimmer"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 26
-    }
-  },
-  {
-    "id": "20260131-185609-x1vj",
-    "title": "Shae Pell Shimmer",
-    "commanders": [
-      "Shae Pell Shimmer"
-    ],
-    "dateStart": "2026-02-01T00:56:09.000Z",
-    "dateEnd": "2026-02-01T01:45:51.000Z",
-    "dateLabel": "1/31/2026, 6:56:09 PM - 1/31/2026, 7:45:51 PM",
-    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260131-185609-x1vj",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 8,
-          "color": "#10b981"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 5,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-06T17:34:20.000Z",
+      "dateEnd": "2026-02-07T03:31:44.000Z",
+      "dateLabel": "2/6/2026, 11:34:20 AM - 2/6/2026, 9:31:44 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260206-113420-cpzx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Detailed Gilded Hollow",
+            "value": 2,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260206-113420-gwak",
+      "title": "Shae Pell Shimmer",
+      "commanders": [
+        "Shae Pell Shimmer"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 13
-    }
-  },
-  {
-    "id": "20260111-165148-6r2m",
-    "title": "Qwertzee",
-    "commanders": [
-      "Qwertzee"
-    ],
-    "dateStart": "2026-01-11T22:51:48.000Z",
-    "dateEnd": "2026-01-19T19:53:46.000Z",
-    "dateLabel": "1/11/2026, 4:51:48 PM - 1/19/2026, 1:53:46 PM",
-    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260111-165148-6r2m",
-    "summary": {
-      "borderlandsPct": 0.6724137931034483,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 38,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 35,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 23,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 20,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-02-06T17:34:20.000Z",
+      "dateEnd": "2026-02-07T03:31:44.000Z",
+      "dateLabel": "2/6/2026, 11:34:20 AM - 2/6/2026, 9:31:44 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260206-113420-gwak",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Detailed Gilded Hollow",
+            "value": 2,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260201-170639-agyh",
+      "title": "Qwertzee",
+      "commanders": [
+        "Qwertzee"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 18
-    }
-  },
-  {
-    "id": "20260111-183738-55ly",
-    "title": "Qwertzee",
-    "commanders": [
-      "Qwertzee"
-    ],
-    "dateStart": "2026-01-12T00:37:38.000Z",
-    "dateEnd": "2026-01-19T19:53:46.000Z",
-    "dateLabel": "1/11/2026, 6:37:38 PM - 1/19/2026, 1:53:46 PM",
-    "url": "https://DustinFoes.github.io/TEAMv2/?report=20260111-183738-55ly",
-    "summary": {
-      "borderlandsPct": 0.7058823529411765,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 25,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 25,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 23,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-02-01T23:06:39.000Z",
+      "dateEnd": "2026-02-02T01:33:24.000Z",
+      "dateLabel": "2/1/2026, 5:06:39 PM - 2/1/2026, 7:33:24 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260201-170639-agyh",
+      "summary": {
+        "borderlandsPct": 0.5263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#10b981"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 26
+      }
+    },
+    {
+      "id": "20260131-185609-x1vj",
+      "title": "Shae Pell Shimmer",
+      "commanders": [
+        "Shae Pell Shimmer"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 16
-    }
-  },
-  {
-    "id": "20260118-170356-5r1w",
-    "title": "Qwertzee",
-    "commanders": [
-      "Qwertzee"
-    ],
-    "dateStart": "2026-01-18T23:03:56.000Z",
-    "dateEnd": "2026-01-19T19:53:46.000Z",
-    "dateLabel": "1/18/2026, 5:03:56 PM - 1/19/2026, 1:53:46 PM",
-    "url": "https://dustinfoes.github.io/TEAMv2/?report=20260118-170356-5r1w",
-    "summary": {
-      "borderlandsPct": 0.45652173913043476,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 25,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 15,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-02-01T00:56:09.000Z",
+      "dateEnd": "2026-02-01T01:45:51.000Z",
+      "dateLabel": "1/31/2026, 6:56:09 PM - 1/31/2026, 7:45:51 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260131-185609-x1vj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#10b981"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 13
+      }
+    },
+    {
+      "id": "20260111-165148-6r2m",
+      "title": "Qwertzee",
+      "commanders": [
+        "Qwertzee"
       ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 19
+      "dateStart": "2026-01-11T22:51:48.000Z",
+      "dateEnd": "2026-01-19T19:53:46.000Z",
+      "dateLabel": "1/11/2026, 4:51:48 PM - 1/19/2026, 1:53:46 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260111-165148-6r2m",
+      "summary": {
+        "borderlandsPct": 0.6724137931034483,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 23,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 18
+      }
+    },
+    {
+      "id": "20260111-183738-55ly",
+      "title": "Qwertzee",
+      "commanders": [
+        "Qwertzee"
+      ],
+      "dateStart": "2026-01-12T00:37:38.000Z",
+      "dateEnd": "2026-01-19T19:53:46.000Z",
+      "dateLabel": "1/11/2026, 6:37:38 PM - 1/19/2026, 1:53:46 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260111-183738-55ly",
+      "summary": {
+        "borderlandsPct": 0.7058823529411765,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 23,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 16
+      }
+    },
+    {
+      "id": "20260118-170356-5r1w",
+      "title": "Qwertzee",
+      "commanders": [
+        "Qwertzee"
+      ],
+      "dateStart": "2026-01-18T23:03:56.000Z",
+      "dateEnd": "2026-01-19T19:53:46.000Z",
+      "dateLabel": "1/18/2026, 5:03:56 PM - 1/19/2026, 1:53:46 PM",
+      "url": "https://dustinfoes.github.io/TEAMv2/?report=20260118-170356-5r1w",
+      "summary": {
+        "borderlandsPct": 0.45652173913043476,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 19
+      }
     }
-  }
-]
+  ]
+}
