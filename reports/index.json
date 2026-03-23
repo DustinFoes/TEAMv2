@@ -7,6 +7,35 @@
   },
   "entries": [
     {
+      "id": "20260322-170808-s7q4",
+      "title": "Thawtiana, Twofirefries",
+      "commanders": [
+        "Thawtiana",
+        "Twofirefries"
+      ],
+      "dateStart": "2026-03-22T22:08:08.000Z",
+      "dateEnd": "2026-03-23T19:07:02.000Z",
+      "dateLabel": "3/22/2026, 5:08:08 PM - 3/23/2026, 2:07:02 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260322-170808-s7q4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 48,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260322-170808-uhgh",
       "title": "Thawtiana",
       "commanders": [
