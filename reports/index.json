@@ -7,6 +7,34 @@
   },
   "entries": [
     {
+      "id": "20260322-170808-uhgh",
+      "title": "Thawtiana",
+      "commanders": [
+        "Thawtiana"
+      ],
+      "dateStart": "2026-03-22T22:08:08.000Z",
+      "dateEnd": "2026-03-22T23:58:22.000Z",
+      "dateLabel": "3/22/2026, 5:08:08 PM - 3/22/2026, 6:58:22 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260322-170808-uhgh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260309-120613-gim9",
       "title": "Beirmeir, Drakarys Mistwalker, Tefiis, Thawtiana",
       "commanders": [
