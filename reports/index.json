@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260329-203338-i537",
+      "title": "Qwerttze",
+      "commanders": [
+        "Qwerttze"
+      ],
+      "dateStart": "2026-03-30T01:33:38.000Z",
+      "dateEnd": "2026-03-30T02:22:20.000Z",
+      "dateLabel": "3/29/2026, 8:33:38 PM - 3/29/2026, 9:22:20 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260329-203338-i537",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260329-154713-qfvt",
       "title": "Thawtiana, Twofirefries",
       "commanders": [
