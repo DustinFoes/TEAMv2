@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260403-204119-mnw1",
+      "title": "Jade Hunteress, Twofirefries",
+      "commanders": [
+        "Jade Hunteress",
+        "Twofirefries"
+      ],
+      "dateStart": "2026-04-04T01:41:19.000Z",
+      "dateEnd": "2026-04-04T04:44:18.000Z",
+      "dateLabel": "4/3/2026, 8:41:19 PM - 4/3/2026, 11:44:18 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260403-204119-mnw1",
+      "summary": {
+        "borderlandsPct": 0.38181818181818183,
+        "mapSlices": [
+          {
+            "name": "Detailed Gilded Hollow",
+            "value": 34,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260329-203338-i537",
       "title": "Qwerttze",
       "commanders": [
