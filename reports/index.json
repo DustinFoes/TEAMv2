@@ -1,7 +1,36 @@
 {
-  "colorPalette": "electric-blue",
-  "glassSurfaces": false,
+  "colorPalette": "rose-pink",
+  "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260426-181444-9e3z",
+      "title": "Slöpy, Thawtiana",
+      "commanders": [
+        "Slöpy",
+        "Thawtiana"
+      ],
+      "dateStart": "2026-04-26T23:14:44.000Z",
+      "dateEnd": "2026-04-27T01:33:52.000Z",
+      "dateLabel": "4/26/2026, 6:14:44 PM - 4/26/2026, 8:33:52 PM",
+      "url": "https://DustinFoes.github.io/TEAMv2/?report=20260426-181444-9e3z",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 20
+      }
+    },
     {
       "id": "20260403-204119-mnw1",
       "title": "Jade Hunteress, Twofirefries",
